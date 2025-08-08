@@ -1,0 +1,11 @@
+Student_ID,Name,Gender,Age,Course,Exam_Center,Malpractice_Type,Caught,Penalty,Invigilator_Report
+1001,John Doe,M,19,Mathematics,Center A,None,No,None,Clean
+1002,Jane Smith,F,21,Physics,Center B,Use of notes,Yes,One-year suspension,Notes found
+1003,Ali Hassan,M,20,Chemistry,Center C,Impersonation,Yes,Expulsion,Identity mismatch
+1004,Lisa Wong,F,22,Biology,Center A,None,No,None,Clean
+1005,Raj Patel,M,23,Computer Sci.,Center D,Mobile phone usage,Yes,Exam cancelled,Phone confiscated
+1006,Sarah Lee,F,18,Mathematics,Center B,Whispering,Yes,Warning,Caught whispering
+1007,Mike Brown,M,19,Physics,Center A,None,No,None,Clean
+1008,Amara Obi,F,20,Chemistry,Center D,Writing on desk,Yes,Zero marks,Evidence on desk
+1009,Ivan Kuzov,M,21,Biology,Center C,None,No,None,Clean
+1010,Maria Gomez,F,22,Computer Sci.,Center B,Unauthorized material,Yes,One-semester suspension,Pages in pocket
